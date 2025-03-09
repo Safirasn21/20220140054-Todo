@@ -1,3 +1,23 @@
+
+
+![Screenshot (1125)](https://github.com/user-attachments/assets/94fae6a9-7765-4e49-9634-fc6f94748803)
+![Screenshot (1124)](https://github.com/user-attachments/assets/3db049fb-995c-41cc-acfa-7bf6353891ce)
+![Screenshot (1123)](https://github.com/user-attachments/assets/cd9ed9a3-ebef-42e6-9261-e724b6fe7db9)
+![Screenshot (1122)](https://github.com/user-attachments/assets/2ec904dd-d165-4693-a51b-eb9a0203f70c)
+![Screenshot (1121)](https://github.com/user-attachments/assets/56da7278-72e1-4321-8b27-429fbf78209d)
+![Screenshot (1120)](https://github.com/user-attachments/assets/3c2f813c-ce40-4ca6-9a95-648920afa225)
+![Screenshot (1119)](https://github.com/user-attachments/assets/7dc53712-dcfc-475d-b62f-e584208650b4)
+![Screenshot (1118)](https://github.com/user-attachments/assets/bd471af7-93bb-4da8-8829-5ce83529a35a)
+![Screenshot (1117)](https://github.com/user-attachments/assets/aa56214a-b136-4310-a156-a576a0bd82c1)
+![Screenshot (1116)](https://github.com/user-attachments/assets/60573e92-e74e-4233-b32f-da6110d7cf3b)
+![Screenshot (1132)](https://github.com/user-attachments/assets/c826cc64-83dd-4040-8274-b6facca131de)
+![Screenshot (1131)](https://github.com/user-attachments/assets/b255538f-f6d5-4cbd-a489-0ec2971bfeb9)
+![Screenshot (1130)](https://github.com/user-attachments/assets/68154df4-89ca-4319-aff8-b7646402d133)
+![Screenshot (1129)](https://github.com/user-attachments/assets/43b2474f-6fad-4572-a163-9d0768109c79)
+![Screenshot (1128)](https://github.com/user-attachments/assets/92d7f2bc-19ac-43c9-81b6-934fad0909fa)
+![Screenshot (1127)](https://github.com/user-attachments/assets/d8216fd0-1af7-4e13-bc76-fe450b18915e)
+![Screenshot (1126)](https://github.com/user-attachments/assets/d99eb9d9-0ba5-4abb-aeb0-2ba33be63900)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
